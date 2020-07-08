@@ -1,9 +1,10 @@
 body {
-    background-color: #eff3fa;
+    background-color: #f3f3f3;
 }
 
 .app-container{
     display: flex;
     align-items:center;
     justify-content: center;
+    flex-direction: column;
 }
